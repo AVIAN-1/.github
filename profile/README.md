@@ -1,4 +1,4 @@
-#  <img src="https://user-images.githubusercontent.com/61543012/194734399-fb60b593-9b9e-4586-87bf-c29118e516c0.png" height="35" width="35" align-items="center" justify-content="center" /> Tradent
+#  <img src="https://user-images.githubusercontent.com/61543012/197378982-b0858b0e-1329-404d-899a-7b12a0ee68d0.png" height="35" width="35" align-items="center" justify-content="center" /> AVIAN
 Building standards allows for predicability in a decentralized network. Decentralizing the practice of standard creation and maintainance is the key. 
 
 ## Well-rouned and well-tested blockchain technology
