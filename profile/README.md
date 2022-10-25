@@ -1,14 +1,14 @@
 #  <img src="https://user-images.githubusercontent.com/61543012/197378982-b0858b0e-1329-404d-899a-7b12a0ee68d0.png" height="35" width="35" align-items="center" justify-content="center" /> AVIAN
-Building standards allows for predicability in a decentralized network. Decentralizing the practice of standard creation and maintainance is the key. 
+Take traveling into a different plane, by adding a stay in the sky and as many stops as you'd like. The trip is designed to be comfortable and affordable making the human-expereince feel avian.
 
-## Well-rouned and well-tested blockchain technology
+## Take flight as often as you like.
 
-📘 Organize your data, records and address information for accessibility.
+🛬 Using gas(smart contract) efficient methods of travel to reduce impact.
 
-🔐 Security is the highest-priority for businesses in the decentralized world.
+🛫 Prioritizing customization and practical applications of travel.
 
-*️⃣ Enterprise level secuirty for consumer leve interactions.
+🛩️ Stay overnight in the clouds in the comfort of a private plane with all the amenities of a hotel.
 
-😶‍🌫️ Keep your identity anonymous and your information private.
+👨🏿‍✈️ Share the plane with a party or pick them up along the way.
 
-#### [An ECE Dapp](https://github.com/eliascharlese)
+#### [An ECE Dapp](https://github.com/elicharlese)
